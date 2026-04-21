@@ -55,5 +55,5 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Sainathreddy</p>
+  <p>Made with ❤️ by Reddy Abdulla</p>
 </div>
